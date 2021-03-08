@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.489103">
+<testcase classname="Purchase a product from the eCommerce site" name="Order Lenovo Mobile with amazon website" time="18.489103">
+<system-out><![CDATA[Given Launch chrome browser.................................................passed
+And Enter amazon website....................................................passed
+When Search product "lenovo mobile phone" and Goto desired product details page.passed
+And Check the availability as In stock......................................passed
+And Add product to cart (two qty)...........................................passed
+Then Go to the cart page and check the product names and total prices.......passed
+]]></system-out>
+</testcase>
+</testsuite>
