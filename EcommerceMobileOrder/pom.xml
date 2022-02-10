@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>BuyingMobile</name>
  <dependencies>
-  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+
 <dependency>
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-junit</artifactId>
